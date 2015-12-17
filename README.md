@@ -1,4 +1,4 @@
 My Awesome Book
 =======
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+为了方便做一些统计学的计算作业，我们用appinventor设计了一个可以在手机上使用的统计功能计算器。这里记录了我们的想法来源、设计过程。
